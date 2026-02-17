@@ -5,18 +5,6 @@
 
 ---
 
-## 📁 Repository contents
-
-| File | Description |
-|------|-------------|
-| **requirements.txt** | Python dependencies (Qiskit, Qiskit Aer, matplotlib, etc.). |
-| **tutorials/Tutorial-Deutsch-Algo.ipynb** | **Tutorial:** Deutsch’s algorithm with a 1-qubit oracle. Learn how to decide if a Boolean function is constant or balanced in a single quantum query. |
-| **tutorials/Tutorial-Grover-Algo.ipynb** | **Tutorial:** Introduction to Grover’s search algorithm with Qiskit 2.x. |
-| **projects/Project-DJ-Algo.ipynb** | **Project:** Generalised **Deutsch–Jozsa** algorithm for *n*-qubit oracles. Implement constant/balanced oracles, analyse phase kickback, circuit depth, and quantum vs classical query complexity. |
-| **projects/Project-Grover-Algo.ipynb** | **Project:** **Grover’s search** for *n*-qubit systems. Implement single and multiple marked items, oracles, optimal iteration counts, amplitude amplification analysis, and validation on ideal/noisy simulators. |
-
----
-
 ## 🛠️ Getting Started
 
 You can run the notebooks **on Google Colab** (no local install) or **locally** on your machine.
